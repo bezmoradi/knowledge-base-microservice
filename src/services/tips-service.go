@@ -4,9 +4,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/databases"
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/helpers"
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/models"
+	"github.com/bezmoradi/knowledge-base-microservice/src/databases"
+	"github.com/bezmoradi/knowledge-base-microservice/src/helpers"
+	"github.com/bezmoradi/knowledge-base-microservice/src/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

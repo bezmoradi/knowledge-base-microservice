@@ -1,4 +1,4 @@
-module github.com/behzadmoradi/blog-microservices-cronjob-go
+module github.com/bezmoradi/knowledge-base-microservice
 
 go 1.21.5
 

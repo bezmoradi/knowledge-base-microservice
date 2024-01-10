@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/config"
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/databases"
-	"github.com/behzadmoradi/blog-microservices-cronjob-go/src/services"
+	"github.com/bezmoradi/knowledge-base-microservice/src/config"
+	"github.com/bezmoradi/knowledge-base-microservice/src/databases"
+	"github.com/bezmoradi/knowledge-base-microservice/src/services"
 )
 
 func init() {
