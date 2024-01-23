@@ -16,7 +16,7 @@ func HandleCron() {
 		cron.WithLocation(location),
 	)
 
-	c.AddFunc("@every 6h", func() {
+	c.AddFunc("@every 4h", func() {
 		contents := getRandomContents(int(count))
 
 		if len(contents) == 0 {
